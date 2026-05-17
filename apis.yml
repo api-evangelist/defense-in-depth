@@ -10,10 +10,9 @@ description: >-
   in NIST, CISA, NSA, and DoD security guidance. This topic indexes APIs and
   resources that help organizations design, implement, and verify defense in
   depth controls.
-type: Topic
+kind: topic
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 specificationVersion: '0.19'
-xType: topic
 tags:
   - Cybersecurity
   - Defense in Depth
