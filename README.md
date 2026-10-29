@@ -1,4 +1,4 @@
-# Defense in Depth (defense-in-depth)
+# defense-in-depth
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,36 +64,22 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Defense in Depth is a layered cybersecurity strategy that uses multiple, overlapping security controls so that if one control fails, others continue to protect systems, data, and users. The approach spans physical, network, endpoint, application, identity, and data layers, and is widely referenced in NIST, CISA, NSA, and DoD security guidance. This topic indexes APIs and resources that help organizations design, implement, and verify defense in depth controls.
+## defense-in-depth on APIs.io
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/defense-in-depth/refs/heads/main/apis.yml)
+Everything profiled for defense-in-depth is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/defense-in-depth/](https://apis.io/providers/defense-in-depth/)** — or go straight to one of the APIs or properties below.
 
-## Scope
+## API Evangelist rating
 
-- **Type:** Topic
-- **x-type:** topic
+Not yet rated. See [apis.io/providers/defense-in-depth/](https://apis.io/providers/defense-in-depth/).
 
-## Tags
+## How this profile is made
 
-- Cybersecurity, Defense in Depth, Layered Security, Information Security, Network Security, Endpoint Security, Identity, Zero Trust, NIST, Risk Management
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
 
-## Timestamps
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for defense-in-depth: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
 
-- **Created:** 2025-01-01
-- **Modified:** 2026-04-28
+## Open an issue
 
-## APIs
-
-This is a topic index. APIs that exemplify defense-in-depth controls are tracked in their own repositories and surfaced here through the broader API Evangelist network.
-
-## Common Properties
-
-- [CISA Cybersecurity Best Practices](https://www.cisa.gov/topics/cybersecurity-best-practices)
-- [NIST Glossary - Defense in Depth](https://csrc.nist.gov/glossary/term/defense_in_depth)
-- [NSA Cybersecurity](https://www.nsa.gov/Cybersecurity/)
-- [NIST SP 800-53 Rev. 5](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final)
-- [NIST Cybersecurity Framework](https://www.nist.gov/cyberframework)
-
-## Maintainers
-
-- **Kin Lane** - kin@apievangelist.com
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/defense-in-depth/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
